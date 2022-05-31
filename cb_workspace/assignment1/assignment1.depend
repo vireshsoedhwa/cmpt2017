@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516514519 source:/home/wierie/Documents/cb_workspace/assignment1/main.cpp
+	<iostream>
+	<string>
+	<regex>
+

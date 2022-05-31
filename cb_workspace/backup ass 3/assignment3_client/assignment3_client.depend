@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1520378431 source:/home/wierie/Documents/cb_workspace/assignment3_client/src/client.cpp
+	"client.h"
+
+1520378271 /home/wierie/Documents/cb_workspace/assignment3_client/include/client.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<strings.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+
+1520377833 source:/home/wierie/Documents/cb_workspace/assignment3_client/main.cpp
+	<iostream>
+	<client.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+

@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1520595101 source:/home/wierie/Documents/cb_workspace/assignment3_rip/main.cpp
+	<iostream>
+	<router.h>
+	<advertisement.h>
+
+1520584941 source:/home/wierie/Documents/cb_workspace/assignment3_rip/src/router.cpp
+	"router.h"
+
+1520595179 /home/wierie/Documents/cb_workspace/assignment3_rip/include/router.h
+	<iostream>
+	<algorithm>
+	<vector>
+	<time.h>
+	<stdlib.h>
+
+1520580221 source:/home/wierie/Documents/cb_workspace/assignment3_rip/src/Routingtable.cpp
+	"Routingtable.h"
+
+1520580369 /home/wierie/Documents/cb_workspace/assignment3_rip/include/Routingtable.h
+
+1520584974 source:/home/wierie/Documents/cb_workspace/assignment3_rip/src/advertisement.cpp
+	"advertisement.h"
+
+1520585228 /home/wierie/Documents/cb_workspace/assignment3_rip/include/advertisement.h
+	<vector>
+	<router.h>
+

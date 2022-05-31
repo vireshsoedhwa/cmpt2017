@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1520324100 source:/home/wierie/Documents/cb_workspace/assignment3/main.cpp
+	<iostream>
+	<server.h>
+
+1520362481 source:/home/wierie/Documents/cb_workspace/assignment3/src/server.cpp
+	"server.h"
+	<iostream>
+
+1520323549 /home/wierie/Documents/cb_workspace/assignment3/include/server.h
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+
